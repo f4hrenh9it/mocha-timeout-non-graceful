@@ -1,11 +1,15 @@
 #### mocha non graceful timeout mwe
+1) Install deps
+```
+npm i
+```
 
-1) Run selenium server
+2) Run selenium server
 ```
 npm run selenium
 ```
 
-2) Run test
+3) Run test
 ```
 npm run test:ui
 ```
